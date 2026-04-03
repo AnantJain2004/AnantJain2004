@@ -13,7 +13,11 @@
 
 # 🏆 Certifications:
 - 📜 DataCamp Certified Associate Data Analyst *(click badge below)*
-  <br>[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/certificate/DAA0016679562445)
+<p align="center">
+  <a href="https://www.datacamp.com/certificate/DAA0016679562445">
+    <img src="da-associate-badge.png"/>
+  </a>
+</p>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantjain2004/)
